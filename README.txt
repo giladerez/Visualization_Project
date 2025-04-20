@@ -4,7 +4,7 @@ Gilad Erez & May Hakim
 ### Example: Crime Map by Merhav
 
 <p align="center">
-  <img src="crime_map_example.png" width="800">
+  <img src="Interactive_crime_map_example.png" width="800">
 </p>
 
 The repository contains the code and outputs made as a part of the "Visualization" M.Sc course in IEM department in BGU.
