@@ -1,7 +1,7 @@
-Visualization Project - Israeli Police Data
-Gilad Erez & May Hakim
+### Visualization Project - Israeli Police Data
+#### Gilad Erez & May Hakim
 
-### Example: Crime Map by Merhav
+##### Example: Crime Map by Merhav
 
 <p align="center">
   <img src="Interactive_crime_map_example.png" width="800">
